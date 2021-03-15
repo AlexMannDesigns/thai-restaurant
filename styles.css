@@ -520,6 +520,10 @@ h2 {
     margin-bottom: 20px;
     margin-right: 0px;
   }
+
+  .map-container {
+    margin: 10px;
+  }
 }
 
 @media (max-width: 600px) {
